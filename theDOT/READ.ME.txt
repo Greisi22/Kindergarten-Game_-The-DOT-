@@ -1,0 +1,30 @@
+theDOT Games
+theDOT Games is a Educational Game intended for education and fun. The game is written in simple Python code and designed for Project.
+
+Python is one of the top-five most popular programming languages in the world and available for free from Python.org. Python includes an extensive Standard Library distributed with your installation. The Standard Library has a module called py.game which is a popular way to introduce programming to kids. theDOT Game is implemented using Python and its py.game module.
+
+Starting in 2022, theDOT Games began as a project for school program to teach programming to ikindergarten kids. The goal was to have fun as much as it was to learn. Since then the games have been improved and used in a variety of settings ranging from iproving kids logacically thinking muscle and answer questions about programing.
+ 
+The games run anywhere Python can be installed which includes desktop computers running Windows, Mac OS, or Linux and older or low-power hardware such as the Raspberry Pi. Kids across the World in kindergarten have enjoyed learning about programming topics and projectile motion through games.
+
+Creativity and flexibility is important. There is no right or wrong way to implement a new feature or behavior!
+
+
+Features
+Fun to play!
+Simple Python code
+Easy to install
+Designed for education
+Depends only on the Python Standard Library
+Used in kindergarten to introduct programming to kids
+Fully Documented
+100% Test Coverage
+Developed on Python 3.10
+Tested on CPython 3.6, 3.7, 3.8, 3.9, 3.10
+Tested on Linux, Mac OS X, and Windows
+Tested using GitHub Actions
+
+Quickstart
+Installing theDOT Games is simple with pip:
+
+Enjoy theDOT and dont forget to have fun.
